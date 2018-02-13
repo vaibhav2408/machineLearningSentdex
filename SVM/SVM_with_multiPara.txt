@@ -1,0 +1,5 @@
+SVM is simply a binary classifier, so it can only seperate 2 groups at a time or per decision boundary. 
+
+2 methods to classify multiple groups - 
+a) OVR - one versus rest
+b) OVO - one versus one
